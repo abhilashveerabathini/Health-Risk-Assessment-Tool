@@ -1,13 +1,12 @@
-# Health-Risk-Assessment-Tool
+
 # Personalized Health Risk Assessment Tool
 
 This project predicts individual health risks using machine learning models trained on clinical and lifestyle data. It evaluates three key risk areas:
 
-- **Cardiovascular Disease (CVD) Risk**
-- **Heart Disease Risk**
-- **Obesity Risk**
-
-## 🔍 How It Works
+- Cardiovascular Disease (CVD) Risk
+- Heart Disease Risk
+- Obesity Risk
+ How It Works
 
 1. Takes user inputs including:
    - Age, Gender
@@ -22,13 +21,12 @@ This project predicts individual health risks using machine learning models trai
 3. Adjusts risk scores based on age
 4. Prioritizes personalized health recommendations
 
-## 🏗️ Project Structure
+##  Project Structure
 
 - `main.py`: Main script for running the assessment
-- `*.pkl`: Pretrained models and scalers
 - `requirements.txt`: Python dependencies
 
-## 🧪 Sample Input
+## Sample Input
 
 ```python
 {
